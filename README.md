@@ -3,4 +3,4 @@ This is a c program that requires zlib, freetype and libpng. So, program draw a 
 use an elfloader and pass requirement functions.
 
 ## Usage
-./elf <font_file> <output_png> <text>
+./elf font_file output_png text
